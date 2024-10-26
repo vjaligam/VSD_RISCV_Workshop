@@ -41,6 +41,7 @@ riscv64-unknown-elf-objdump sum1toN_risv.o  ## output file from above command
 # Task2: SPIKE Simulation and observation with -O1 and -Ofast. Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your GitHub repo. 
 
 https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task42/README.md 
+
 //#Simulate the riscv code with SPIKE Simulator and debug through the code
 //#Command to invoke the spike riscv simulator is
 //spike pk <objectcode.o> 
@@ -83,15 +84,18 @@ int main () {
 
 https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task3/README.md 
 
+
 # Task 4: Using Existing RISC-V Core Verilog netlist and testbench for functional simulation experiment. Upload waveform snapshots for the commands on your GitHub. Reference GitHub repo is here. 
 
 https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task4/README.md 
 
 
 
+
 # Task5: Update the repo with project name., Overview, Components Required to build your application, Circuit Connection, Pinout Diagram using ppt (current image is hand-drawn) and Table for Pin connection. Refer to this link for reference
 
 https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task5/README.md
+
 
 
 # Application:
