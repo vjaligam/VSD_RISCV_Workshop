@@ -91,6 +91,7 @@ https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task4/README.md
 
 # Task5: Update the repo with project name., Overview, Components Required to build your application, Circuit Connection, Pinout Diagram using ppt (current image is hand-drawn) and Table for Pin connection. Refer to this link for reference
 
+https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task5/README.md
 
 
 # Application:
