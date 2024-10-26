@@ -8,6 +8,7 @@ Instructor : Kunal Ghosh
 
 # Task1 : Create GitHub repo. Install RISC-V toolchain using VDI shared over whatsapp group. Refer to C based Lab video and RISC-V based lab videos. Complete exact steps on your machine. Upload snapshot of compiled C code and RISC-V Objdmp on your GitHub repo
 
+https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task1/README.md 
 
 //Write a C code to calculate the sum of 1 to N numbers and compile with riscv compiler
 #include <stdio.h>
@@ -39,6 +40,7 @@ riscv64-unknown-elf-objdump sum1toN_risv.o  ## output file from above command
 
 # Task2: SPIKE Simulation and observation with -O1 and -Ofast. Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your GitHub repo. 
 
+https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task42/README.md 
 //#Simulate the riscv code with SPIKE Simulator and debug through the code
 //#Command to invoke the spike riscv simulator is
 //spike pk <objectcode.o> 
@@ -79,9 +81,11 @@ int main () {
 
 # Task 3: 1) List various RISC-V instruction type (R, I, S, B, U, J) after going through RISC-V software documentation 2) Identify 15 unique RISC-V instructions from riscv-objdmp of your application code  3) Identify exact 32-bit instruction code in the instruction type format for 15 unique instructions 4) Upload the 32-bit pattern on Github
 
-
+https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task3/README.md 
 
 # Task 4: Using Existing RISC-V Core Verilog netlist and testbench for functional simulation experiment. Upload waveform snapshots for the commands on your GitHub. Reference GitHub repo is here. 
+
+https://github.com/vjaligam/VSD_RISCV_Workshop/blob/main/Task4/README.md 
 
 
 
