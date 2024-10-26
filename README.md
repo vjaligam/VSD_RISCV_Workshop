@@ -89,8 +89,11 @@ int main () {
 
 
 
-# Applications:
+# Application:
 
+#PlatformIO Compare LED application
+The whole idea of this application is without using anything external like jumper wires, BreadBoard,etc. how we can show/demonstrate VSD SquandronMini board working.
+This is a LED  program using GPIO pin (PD6) when A is equalto B it will blink and when A is greater than B it wll reset and when A is less than B, it will blink. The project is based on the PlatformIO framework.
 
 
 # Application Video :
