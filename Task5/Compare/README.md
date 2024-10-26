@@ -5,11 +5,11 @@ To build and upload the firmware, you need to install the PlatformIO Core. The f
 
 Install PlatformIO Core
 Run these commands:
-# Build project
+#Build project
 $ pio run
 
-# Upload firmware
+#Upload firmware
 $ pio run --target upload
 
-# Clean build files
+#Clean build files
 $ pio run --target clean
