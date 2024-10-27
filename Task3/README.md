@@ -130,6 +130,10 @@ J-type Instructions:
 JAL : Jump and Link.
 -> It performs unconditional jump to a target address.It also stores return address in 'rd'.
 -> Used typically for function calls.
--> Below is the image of  instructions in my object code.
+
+Below is the image of  instructions in my object code.
+
+![image](https://github.com/user-attachments/assets/6958c366-98d7-4a39-8b8d-5db4b11ab6f8)
+
 
 
