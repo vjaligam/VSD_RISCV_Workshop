@@ -19,11 +19,8 @@ R-type Instructions:
 
 
 -> Below images show different types of funct3 and funct7 and opcodes of R-type instructions.
-
-WhatsApp Image 2024-10-02 at 18 24 23_e72038e7
-
-
-WhatsApp Image 2024-10-02 at 18 46 25_7f72f2d2
+![image](https://github.com/user-attachments/assets/efe8f8a7-0c7e-4f6d-9ab6-9d26ca40a8dd)
+![image](https://github.com/user-attachments/assets/4026b13d-d1ea-491a-9d51-c3ab55a91aa0)
 
 
 -> Here, we can see that "opcode" for all R-type instructions is "0110011" and "funct7" is "0000000" for all except for subtraction "0100000".
@@ -89,8 +86,7 @@ srai rd,rs1,imm
 
 -> Below are some load instructions of I-type.
 
-
-WhatsApp Image 2024-10-02 at 20 37 42_baee9696
+![image](https://github.com/user-attachments/assets/4a7ad643-92c8-4cf7-aab6-cfda5262fbb0)
 
 
 B-type Instructions:
@@ -99,7 +95,8 @@ B-type Instructions:
 -> Below image shows different B-type instructions.
 
 
-WhatsApp Image 2024-10-02 at 20 43 44_addcfc45
+![image](https://github.com/user-attachments/assets/74bfab2c-10e1-463c-afd4-e52e1bffd1b6)
+
 
 
 -> Opcode reamins "1100011".
@@ -133,5 +130,6 @@ J-type Instructions:
 JAL : Jump and Link.
 -> It performs unconditional jump to a target address.It also stores return address in 'rd'.
 -> Used typically for function calls.
--> Below is the image of some instructions in the object code.
+-> Below is the image of  instructions in my object code.
+
 
