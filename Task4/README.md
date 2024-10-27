@@ -55,10 +55,6 @@ $ ./directory_name -> From running these commands, ' .vcd ' file will be generat
 
 gtkwave module_name.vcd
 
-This image shows the user interface of " gtkwave " .
-
-Gtkwave
-
 
 To see the waveforms, we have to append them to the waveformsimulator.
 
